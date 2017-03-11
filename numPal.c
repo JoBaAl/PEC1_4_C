@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 	r = 0;
 	
 	//Enter a 5 digits number
-	printf("a 5 digits number: ");
+	printf("Enter a 5 digits number: ");
 	scanf("%d",&n);
 	
 	//Save original number
